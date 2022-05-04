@@ -1,3 +1,19 @@
+# Andres Felipe Alzate Grajales
+
+Hola soy Andres, me suelen decir Pipe, nací el 20 de octubre de 2005 (16 años) en Medellín. 
+Actalmente vivo en el corregimiento de Santa Elena en la vereda el Plan
+
+
+1. Me gusta:
+- Dormir 😴
+- Comer 🍖
+- Jugar videojuegos 🎮
+- Escuchar Música 🎵
+
+![image](https://user-images.githubusercontent.com/100798796/166820526-95087c90-2c64-4528-9abc-ba2d140db68b.png)
+
+
+
 ### Hi there 👋
 
 <!--
